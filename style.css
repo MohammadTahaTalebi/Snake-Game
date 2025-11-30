@@ -38,7 +38,8 @@ body{
     background: #212837;
 }
 .play-board .food{
-    background-color: #ff003d;
+    background: url("https://www.iconpacks.net/icons/2/free-apple-icon-3155-thumb.png") no-repeat 50% 50%;
+    background-size: 100%;
 }
 .play-board .head{
     background-color: #60cbff;
